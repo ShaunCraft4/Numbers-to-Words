@@ -14,7 +14,7 @@ worded_number=""
 split_numbers=[]
 counter=0
 split_number=""
-number_dictionary={1:"One",2:"Two",3:"Three",4:"Four",5:"Five",6:"Six",7:"Seven",8:"Eight",9:"Nine",10:"Ten",11:"Eleven",12:"Twelve",13:"Thirteen",14:"Fourteen",15:"Fifteen",16:"Sixteen",17:"Seventeen",18:"Eighteen",19:"Nineteen",20:"Twenty",30:"Thirty",40:"Fourty",50:"Fifty",60:"Sixty",70:"Seventy",80:"Eighty",90:"Ninety"}                 
+number_dictionary={1:"One",2:"Two",3:"Three",4:"Four",5:"Five",6:"Six",7:"Seven",8:"Eight",9:"Nine",10:"Ten",11:"Eleven",12:"Twelve",13:"Thirteen",14:"Fourteen",15:"Fifteen",16:"Sixteen",17:"Seventeen",18:"Eighteen",19:"Nineteen",20:"Twenty",30:"Thirty",40:"Forty",50:"Fifty",60:"Sixty",70:"Seventy",80:"Eighty",90:"Ninety"}                 
 Term_dictionary={12:" Decillion ",11:" Nonillion ",10:" Octillion ",9:" Septillion ",8:" Sextillion ",7:" Quintillion ",6:" Quadrillion ",5:" Trillion ",4:" Billion ",3:" Million ",2:" Thousand ",1:""} #You can further continue adding more range for the numbers by simply continuing the sequence in the dictionary
 
 
